@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/basasa/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_53252f87a363c9acb60fc94215f91104960e1c18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/3a4c66d0e29505a5a52a2e43e59c4acfa37d07a3/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_9e103b3fe54ef5536b68b7f1b209806c77121248/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/8d181c802987e2c5d3e6aef5a4837d54411bc435/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2834309bc902f319688fac0526de96c6686b62d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/0948b0382252ae6d4a5f233c48ae6610138ef2d1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c954763755a6d032725dfc36fe95888e8f3e24f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/569308238168e05e9c9e84739ed23e0bb95d4e10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_954f3f5b215803cbf7d180eb50c4798fffad3cf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/4bbcfa5318e3a1b845064f0bf2528a9201b4590c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_292683bff1d587148e67f6c08423a6258593532f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/8e9433d34692c2d913e320b3f067940279743613/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4f0fae17aeb8618c36074fccc0f6f31ead2c15b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6c61aaa4b15331b34ff640ef2b2ce7a4636075f5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="92606bc8c3b808c318963855a8e0dcb8a90d43f7">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_21956fe2682147250e71a3d5e93541d38b3b6e1d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/8d181c802987e2c5d3e6aef5a4837d54411bc435/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_08e1df04e5e2cff0250e46142527621e38a9486f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/2d155a9d86a573c4bcb6936e132bdd10898b64ab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4858e9dfb9a7ccfcc9c86af77f717ba7f4ce5f1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/1d0f0098779c7feecb568a4eaf31089e51b6e125/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72aacf491244f96a4b88832633e89a0a7c55c3fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/3a4c66d0e29505a5a52a2e43e59c4acfa37d07a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c764191c25ae5bf1d311b726602de94ff7703eec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/569308238168e05e9c9e84739ed23e0bb95d4e10/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a6c36f73d86fc9348dfd94ba532382f20f63f93f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/4ad178f7611d6b25b6214057a4b95d865605e91b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4e01297e21f918ce3de5f20f1b7ab5682f125ff4">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce9a91b14aad5f8e4ec5aced3fae020da106351a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/8944b74178ba19b3fd85bcfdf601179eb723db5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c36a55900bd590cb464492c436d7d1aa5f9854d">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6904ab41fa923b9e1378b80fc47020103164231f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/89ae06dd2fa168cbd26de5cc2c62924ffd4a0f93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41c4d0e4d53e048df08957d98fe89fb36553ba33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/bbf378ad2192ec70fdf0ad7d391e423b5452cf3e/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0b71df46f75a4dd48aa8fa12e2638c4a0e9083fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/bbf378ad2192ec70fdf0ad7d391e423b5452cf3e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_be53d31f7beabc0c88c4eee1937bce0acede497c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/bd68bd06d9755a6e078c1e213c987c072b059e58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f53236a57aeca0cf2169d244589a152990aaabb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/f296563edc65213d725391370fc0939d08295469/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d37952f5fac5fde32e00e52119cafc3ac5e1e1d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/basasa/.android/build-cache/8e9433d34692c2d913e320b3f067940279743613/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/basasa/Adroid/Final_Year/incrs/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_91ec64fb734a5b0a43216955e18b28c210d8a47b/classes.dex" />
+    </item>
+
+</items>
